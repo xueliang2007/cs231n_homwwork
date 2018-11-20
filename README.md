@@ -5,3 +5,7 @@
 - jupyter notebook
 - Python 3.5
 - Ubuntu 16.04
+
+## 交流
+欢迎探讨交流
+  xueliang2007@cumt.edu.cn
